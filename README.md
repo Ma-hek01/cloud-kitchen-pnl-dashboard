@@ -97,6 +97,11 @@ streamlit run variance_dashboard.py
 - Store-level analytics helps identify operational bottlenecks.
 
 ---
+## Live Dashboard
+
+https://cloud-kitchen-pnl-dashboard-5yidv3kuzyappy36bjp457a.streamlit.app/
+https://cloud-kitchen-pnl-dashboard-kknerhts5kaq28wyxrkvzi.streamlit.app/
+
 
 Cloud Kitchen Analytics Project
 Built using Streamlit & Plotly
