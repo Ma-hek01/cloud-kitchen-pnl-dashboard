@@ -1,4 +1,4 @@
-# Cloud Kitchen PNL Analytics Dashboard
+# Cloud Kitchen PNL and Variance Analytics Dashboard
 
 ## Project Overview
 
